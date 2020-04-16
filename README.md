@@ -1,1 +1,1 @@
-﻿# personal website created HTML & CSS
+﻿# personal website created html and css
