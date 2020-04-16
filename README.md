@@ -6,6 +6,7 @@
 ### Main Featured:
     Fully Responsive
     Design With HTML5 & CSS3
+    Google Web Fonts Include
 
 <br />
 
