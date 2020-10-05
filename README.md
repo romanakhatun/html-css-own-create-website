@@ -1,5 +1,5 @@
-# PERSONAL WEBSITE
-###### Personal Website created with HTML5 & CSS3.
+# PERSONAL TEMPLATE
+###### Personal template created with HTML5 & CSS3.
 
 <br />
 
