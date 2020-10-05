@@ -1,5 +1,5 @@
 # PERSONAL TEMPLATE
-###### Personal template created with HTML5 & CSS3.
+###### Personal template created with HTML5 & CSS3. 
 
 <br />
 
